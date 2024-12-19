@@ -8,13 +8,13 @@ table {
 }
 
 td{
-	padding:5px;font-style:oblique;font-size:15px;
+	padding:5px;font-style:oblique;font-size:20px;
 }
 
 th{
-	background-color:blue;font-style:italic;font-size:35px;
+	background-color:blue;font-style:italic;font-size:33px;
 }
 
 h3{
-	color:blue;
+	color:pink;
 }
