@@ -38,7 +38,7 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 .segunda-lista ul {
 	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
 }
-.segunda-lista a{text-decoration:none;color:white;font-family:sans-serif;font-weight:bold;
+.segunda-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .segunda-lista a:hover{
@@ -52,7 +52,7 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 .tercera-lista ul {
 	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
 }
-.tercera-lista a{text-decoration:none;color:white;font-family:sans-serif;font-weight:bold;
+.tercera-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .tercera-lista a:hover{
