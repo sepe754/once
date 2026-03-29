@@ -24,7 +24,7 @@
 .lista-horizontal ul {
 	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
 }
-.lista-horizontal a{text-decoration:none;color:white;font-family:sans-serif;font-weight:bold;
+.lista-horizontal a{text-decoration:none;color:black;font-family:arial;font-weight:bold;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .lista-horizontal a:hover{
