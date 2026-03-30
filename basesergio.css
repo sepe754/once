@@ -28,7 +28,7 @@
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .lista-horizontal a:hover{
-	color:#3498db;transform:translateY(-2px);
+	color:pink;transform:translateY(-2px);
 }
 </style>
 <style>
@@ -42,7 +42,7 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .segunda-lista a:hover{
-	color:#3498db;transform:translateY(-2px);
+	color:pink;transform:translateY(-2px);
 }
 </style>
 <style>
@@ -56,7 +56,7 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .tercera-lista a:hover{
-	color:#3498db;transform:translateY(-2px);
+	color:pink;transform:translateY(-2px);
 }
 </style>
 
